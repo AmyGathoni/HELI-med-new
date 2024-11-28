@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "heli-med",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
