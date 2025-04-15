@@ -70,44 +70,13 @@ node_modules/
 intents.json
 site packages/
 
+.DS_Store
 
+venv/
 
+__pycache__/
+*.pyc
 
+node_modules/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*.log
