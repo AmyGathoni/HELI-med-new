@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "heli-med",
+    "public": "HELI\\med",
     "ignore": [
       "firebase.json",
       "**/.*",
